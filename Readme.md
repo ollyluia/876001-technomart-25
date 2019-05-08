@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Ольга Одинцова](https://up.htmlacademy.ru/htmlcss/25/user/876001).
-* Наставник: [Елизавета Винокурова](https://htmlacademy.ru/profile/elivin).
+* Наставник: [Елизавета Винокурова](https://up.htmlacademy.ru/htmlcss/25/user/123355).
 
 ---
 
